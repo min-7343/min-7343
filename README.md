@@ -2,11 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&h&height=300&color=2563EB&text=MINGYEONG's%20HUB&reversal=false&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=fadeIn)
 ### 💻 Tech Stack
-![java](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <!--
 **min-7343/min-7343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
