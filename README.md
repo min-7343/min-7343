@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=2563EB&text=MINGYEONG's%20GITHUB&reversal=false&fontColor=E0E7FF&fontAlign=50&fontAlignY=36&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&height=250&color=2563EB,3B82F6&text=MINGYEONG's%20GITHUB&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=36&animation=fadeIn
+)
 ### 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
