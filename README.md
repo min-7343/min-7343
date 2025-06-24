@@ -1,6 +1,9 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=random&t!&fontColor=FFFFFF&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=2563EB,3B82F6&text=👩‍💻%20MINGYEONG's%20GITHUB%20🚀&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=36&animation=fadeIn)
+### 👋 Hello, I'm Mingyeong  
+신입 개발자입니다. GitHub 방문을 환영해요!
+<br>
+<br>
 ### 💻 Tech Stack
 
 🧠 Back-End
