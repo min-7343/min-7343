@@ -34,3 +34,13 @@
 - 🛠️ Open Source Collaboration
 - 🖥️ System Monitoring & Infrastructure
 
+
+
+
+<h3>Team Project</h3>
+
+[![Highway Rest Area Project](https://github-readme-stats.vercel.app/api/pin/?username=min-7343&repo=highwayRestArea_prj)](https://github.com/min-7343/highwayRestArea_prj)
+
+- 2차 프로젝트
+
+- 고속도로 휴게소 정보를 제공하는 웹사이트입니다.
