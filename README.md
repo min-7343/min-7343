@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=random&t!&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&fontColor=FFFFFF&animation=fadeIn)
 
 ### 👋 Hello, I'm Mingyeong  
 신입 개발자입니다. GitHub 방문을 환영해요!
